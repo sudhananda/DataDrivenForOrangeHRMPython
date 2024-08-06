@@ -1,0 +1,5 @@
+tc_id,first_name,last_name,middle_name,emp_id,user_name,password,status
+emp_create_1,Test,Employee,,,,,
+emp_create_2,Automation,Tester,sample,67890,,,
+emp_create_3,sudha,nanda,,,TestUser1,Test@1234,Enabled
+emp_create_4,user,tester,,,TestUser2,Test@1234,Disabled

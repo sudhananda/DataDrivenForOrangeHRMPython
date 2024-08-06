@@ -1,0 +1,19 @@
+{
+  "environments": {
+    "dev": {
+      "url": "https://dev.example.com",
+      "username": "dev_user",
+      "password": "dev_password"
+    },
+    "qa": {
+      "url": "https://opensource-demo.orangehrmlive.com/web/index.php/auth/login",
+      "username": "Admin",
+      "password": "admin123"
+    },
+    "stage": {
+      "url": "https://stage.example.com",
+      "username": "stage_user",
+      "password": "stage_password"
+    }
+  }
+}
